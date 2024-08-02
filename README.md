@@ -17,8 +17,7 @@ Hi, I'm a passionate DevOps Engineer dedicated to automating infrastructure, imp
 ## Featured Projects
 
 ### Project 1: Simple Provisioning a GKE Cluster and use private network in different project using terragrunt
-GKE is a managed Kubernetes service provided by Google Cloud Platform (GCP), which allows you to easily deploy and manage containerized applications. Terragrunt is a popular open-source tool that helps you manage infrastructure as code using Terraform.
-![Demo](link-to-demo.gif)
+GKE is a managed Kubernetes service provided by Google Cloud Platform, which allows you to easily deploy and manage containerized applications using Terragrunt.
 [Repo]() | [Documentation](https://medium.com/devops-dev/introduction-d2250955b53f)
 
 ### Project 2: Installing Elasticsearch 8 Multi Node on Ubuntu
@@ -33,11 +32,6 @@ Filebeat is one of the products developed by Elastic, the company behind the Ela
 Google Compute infrastructure using Terragrunt
 [Repo]() | [Documentation](https://medium.com/@imammaulana40/unleashing-efficiency-google-compute-engine-setup-simplified-with-terragrunt-33ec132b0007)
 
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=imammaulanaa&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imammaulanaa&layout=compact)
 
 ## Let's Connect
 
