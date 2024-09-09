@@ -8,7 +8,7 @@ Hi, I'm a passionate DevOps Engineer dedicated to automating infrastructure, imp
 
 - **Infrastructure as Code (IaC)**: Terraform, Ansible
 - **Languages**: Python, Golang, Bash
-- **CI/CD**: GitHub Actions, GitLab CI
+- **CI/CD**: GitHub Actions, GitLab CI, ArgoCD
 - **Containers**: Docker, Kubernetes
 - **Cloud Providers**: AWS, GCP
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, Datadog
